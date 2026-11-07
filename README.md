@@ -1,4 +1,4 @@
-### Fondateur de Boolon
+###
 
 Je conçois et je construis des produits SaaS de bout en bout : produit, design, code, mise en production.
 
